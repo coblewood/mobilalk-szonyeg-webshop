@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Szőnyeg Webshop</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loginEmail">E-mail</string>
+    <string name="registration">Registration</string>
+    <string name="registration_title">Registration</string>
+    <string name="name">Full Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password_again">Password again</string>
+    <string name="register">Register</string>
+    <string name="cancel">Cancel</string>
+    <string name="log_in_title">Log in</string>
+    <string name="regUsername">Username</string>
+    <string name="log_in_as_guest">Log in as guest</string>
+
+    <string name="item_placeholder">Item name</string>
+    <string name="itemDescriptionPH">Item description</string>
+    <string name="itemPricePH">100 Cr</string>
+    <string name="addToCartText">Kosárba</string>
+    <string name="itemImagePH">Item Image</string>
+
+    <string-array name="szonyeg_names">
+        <item>Wool Carpet</item>
+        <item>Striped Carpet</item>
+        <item>Sisal Carpet</item>
+        <item>Shaggy Carpet</item>
+        <item>Modern Carpet</item>
+        <item>Kashmir Carpet</item>
+        <item>Kashan Carpet</item>
+        <item>Tabriz Carpet</item>
+        <item>Aminster Carpet</item>
+    </string-array>
+
+    <string-array name="szonyeg_descriptions">
+        <item>A beautiful wool carpet</item>
+        <item>An elegant striped carpet</item>
+        <item>An antique sisal carpet</item>
+        <item>A rough shaggy carpet</item>
+        <item>A stylish modern carpet</item>
+        <item>A unique kashmir carpet</item>
+        <item>A fantastic kashan carpet</item>
+        <item>A fine tabriz carpet</item>
+        <item>A legendary aminster carpet</item>
+    </string-array>
+
+    <array name="szonyeg_images">
+        <item>@drawable/wool</item>
+        <item>@drawable/striped</item>
+        <item>@drawable/sisal</item>
+        <item>@drawable/shaggy</item>
+        <item>@drawable/modern</item>
+        <item>@drawable/kashmir</item>
+        <item>@drawable/kashan</item>
+        <item>@drawable/fine_tabriz</item>
+        <item>@drawable/amin</item>
+    </array>
+
+    <array name="szonyeg_ratings">
+        <item>3</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4.5</item>
+        <item>2</item>
+        <item>2.5</item>
+        <item>5</item>
+        <item>5</item>
+    </array>
+
+    <string-array name="szonyeg_prices">
+        <item>200 Cr</item>
+        <item>110 Cr</item>
+        <item>960 Cr</item>
+        <item>480 Cr</item>
+        <item>350 Cr</item>
+        <item>780 Cr</item>
+        <item>530 Cr</item>
+        <item>50 Cr</item>
+        <item>2000 Cr</item>
+    </string-array>
+
+</resources>
